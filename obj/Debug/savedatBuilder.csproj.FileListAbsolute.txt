@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\savedatBuilder\savedatBuilder\bin\Debug\savedatBuilder.exe.config
+C:\Users\User\source\repos\savedatBuilder\savedatBuilder\bin\Debug\savedatBuilder.exe
+C:\Users\User\source\repos\savedatBuilder\savedatBuilder\bin\Debug\savedatBuilder.pdb
+C:\Users\User\source\repos\savedatBuilder\savedatBuilder\obj\Debug\savedatBuilder.csprojAssemblyReference.cache
+C:\Users\User\source\repos\savedatBuilder\savedatBuilder\obj\Debug\savedatBuilder.Form1.resources
+C:\Users\User\source\repos\savedatBuilder\savedatBuilder\obj\Debug\savedatBuilder.Properties.Resources.resources
+C:\Users\User\source\repos\savedatBuilder\savedatBuilder\obj\Debug\savedatBuilder.csproj.GenerateResource.cache
+C:\Users\User\source\repos\savedatBuilder\savedatBuilder\obj\Debug\savedatBuilder.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\savedatBuilder\savedatBuilder\obj\Debug\savedatBuilder.exe
+C:\Users\User\source\repos\savedatBuilder\savedatBuilder\obj\Debug\savedatBuilder.pdb
+C:\Users\User\source\repos\savedatBuilder\savedatBuilder\obj\Debug\savedatBuilder.csproj.CopyComplete

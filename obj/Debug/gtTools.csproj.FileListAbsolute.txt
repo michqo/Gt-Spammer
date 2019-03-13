@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\savedatBuilder\gtSpammer\bin\Debug\gtTools.exe.config
+C:\Users\User\source\repos\savedatBuilder\gtSpammer\bin\Debug\gtTools.exe
+C:\Users\User\source\repos\savedatBuilder\gtSpammer\bin\Debug\gtTools.pdb
+C:\Users\User\source\repos\savedatBuilder\gtSpammer\obj\Debug\gtTools.csprojAssemblyReference.cache
+C:\Users\User\source\repos\savedatBuilder\gtSpammer\obj\Debug\savedatBuilder.Form1.resources
+C:\Users\User\source\repos\savedatBuilder\gtSpammer\obj\Debug\gtTools.Properties.Resources.resources
+C:\Users\User\source\repos\savedatBuilder\gtSpammer\obj\Debug\gtTools.csproj.GenerateResource.cache
+C:\Users\User\source\repos\savedatBuilder\gtSpammer\obj\Debug\gtTools.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\savedatBuilder\gtSpammer\obj\Debug\gtTools.csproj.CopyComplete
+C:\Users\User\source\repos\savedatBuilder\gtSpammer\obj\Debug\gtTools.exe
+C:\Users\User\source\repos\savedatBuilder\gtSpammer\obj\Debug\gtTools.pdb
